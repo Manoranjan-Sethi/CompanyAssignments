@@ -23,11 +23,15 @@ You are working at a startup F&G. You have to make feedback and the grievance sy
 Clone the project
 
 ```bash
-  git clone https://github.com/Manoranjan-Sethi/RodanAndFields_clone.git
+  git clone https://github.com/Manoranjan-Sethi/CompanyAssignments.git
 ```
 
 ```bash
-  cd
+  cd Aromatic_Bars
+```
+
+```bash
+  npm i
 ```
 
 ```bash
