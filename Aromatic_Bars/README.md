@@ -40,4 +40,11 @@ Clone the project
 
 ## Screenshots
 
+![form](https://user-images.githubusercontent.com/84295391/195419166-8d2e1ae5-1a9a-426b-9590-6b4fa59fe014.png)
+
+![ThankYou](https://user-images.githubusercontent.com/84295391/195419184-09687bd1-ccc3-4d3e-aba6-fb631c146365.png)
+
+![localStorage](https://user-images.githubusercontent.com/84295391/195419205-ac9cf97a-02a0-4816-a0da-c2ef5f01b299.png)
+
+
 - [@Manoranjan Sethi](https://github.com/Manoranjan-Sethi)
